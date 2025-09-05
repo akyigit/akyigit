@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Deniz!
 
-- 🌱 I’m currently a Computer Engineering student.
-
 - 📫 How to reach me: www.linkedin.com/in/denizakyigit/
 
 <!---
